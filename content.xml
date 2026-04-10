@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260410182959LZ025V</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260410182959ROQZOG</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SdA Estadijuegos</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>María Luisa Cabeza de Vaca Rodríguez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Este Exelearning es el producto final realizado por María Luisa Cabeza de Vaca Rodríguez, como actividad final del curso de Competencia Digital Docente Nivel B2 ofertado por la Junta de Andalucía. En él aparecen las diferentes tareas llevadas a cabo a lo largo de los ocho módulos que componen el curso.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1775838150770</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>7d31701a-f48b-44c5-a3f9-9ba46aa20b0a</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Comenzamos nuestro proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Comenzamos nuestro proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Comenzamos nuestro proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>7d31701a-f48b-44c5-a3f9-9ba46aa20b0a</odePageId>
+      <odeBlockId>block-1775836165814-ik03ltqr7</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>7d31701a-f48b-44c5-a3f9-9ba46aa20b0a</odePageId>
+          <odeBlockId>block-1775836165814-ik03ltqr7</odeBlockId>
+          <odeIdeviceId>idevice-1775836165811-jvpsegixs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el siguiente enlace paso a detallar los principales elementos de la SdA:</p>
+<p>- Centro de interés o temática.<br />- Nivel al que va dirigido.<br />- Temporalización aproximada.<br />- Materia o materias implicadas.<br />- Idioma.<br />- Descripción general de lo que se pretende que el alumnado aprenda o trabaje.</p>
+<p><a href="{{context_path}}/content/resources/Tarea 2.1.pdf" title="Tarea 2.1.pdf">Descargar documento</a></p>
+<p></p>
+<p></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775836165811-jvpsegixs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el siguiente enlace paso a detallar los principales elementos de la SdA:</p>\n<p>- Centro de interés o temática.<br />- Nivel al que va dirigido.<br />- Temporalización aproximada.<br />- Materia o materias implicadas.<br />- Idioma.<br />- Descripción general de lo que se pretende que el alumnado aprenda o trabaje.</p>\n<p><a href=\"{{context_path}}/content/resources/Tarea 2.1.pdf\" title=\"Tarea 2.1.pdf\">Descargar documento</a></p>\n<p></p>\n<p></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775834937083-190bh2cxg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Licencias y seguridad</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Licencias y seguridad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. Licencias y seguridad</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775834937083-190bh2cxg</odePageId>
+      <odeBlockId>block-1775836736356-aw7pxe1c8</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775834937083-190bh2cxg</odePageId>
+          <odeBlockId>block-1775836736356-aw7pxe1c8</odeBlockId>
+          <odeIdeviceId>idevice-1775836736354-amzs8ltiu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Recogemos aquí una infografía con indicaciones fundamentales sobre protección de datos personales y garantías de derechos digitales para el alumnado.</p>
+<p></p>
+<p><a href="{{context_path}}/content/resources/Tarea 2.3.pdf" title="Tarea 2.3.pdf">Descargar documento</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775836736354-amzs8ltiu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Recogemos aquí una infografía con indicaciones fundamentales sobre protección de datos personales y garantías de derechos digitales para el alumnado.</p>\n<p></p>\n<p><a href=\"{{context_path}}/content/resources/Tarea 2.3.pdf\" title=\"Tarea 2.3.pdf\">Descargar documento</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775835008396-688hn8wwm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Elegimos la herramienta para el producto final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Elegimos la herramienta para el producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. Elegimos la herramienta para el producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775835008396-688hn8wwm</odePageId>
+      <odeBlockId>block-1775836832030-t8r50jzli</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775835008396-688hn8wwm</odePageId>
+          <odeBlockId>block-1775836832030-t8r50jzli</odeBlockId>
+          <odeIdeviceId>idevice-1775836832028-h7g5v2znw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El alumnado utilizará Genially para elaborar historias interactivas relacionadas con los juegos, integrando texto, imágenes, animaciones y enlaces que permitan crear narrativas dinámicas. El objetivo es fomentar la creatividad, la expresión escrita y la competencia digital, además de favorecer la comprensión y aplicación de los contenidos de Lengua de manera lúdica e interactiva.</p>
+<p>Justificación de la elección:</p>
+<p>Versatilidad de la herramienta: Genially permite combinar distintos recursos multimedia (texto, imágenes, audio, animaciones) de forma intuitiva, adaptándose a diferentes niveles de competencia y estilos de aprendizaje.<br />Contexto y disponibilidad: La versión educativa es gratuita y accesible desde cualquier dispositivo con internet, lo que asegura que todo el alumnado pueda participar sin problemas.<br />Edad y competencia digital del alumnado: La herramienta es adecuada para estudiantes de primaria y secundaria, ya que es sencilla de usar, pero permite explorar funciones más avanzadas para quienes tengan más destreza digital.<br />Motivación y aprendizaje significativo: La interactividad y el componente lúdico de Genially conectan con el tema, aumentando la motivación y el interés por la escritura y la creatividad.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775836832028-h7g5v2znw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El alumnado utilizará Genially para elaborar historias interactivas relacionadas con los juegos, integrando texto, imágenes, animaciones y enlaces que permitan crear narrativas dinámicas. El objetivo es fomentar la creatividad, la expresión escrita y la competencia digital, además de favorecer la comprensión y aplicación de los contenidos de Lengua de manera lúdica e interactiva.</p>\n<p>Justificación de la elección:</p>\n<p>Versatilidad de la herramienta: Genially permite combinar distintos recursos multimedia (texto, imágenes, audio, animaciones) de forma intuitiva, adaptándose a diferentes niveles de competencia y estilos de aprendizaje.<br />Contexto y disponibilidad: La versión educativa es gratuita y accesible desde cualquier dispositivo con internet, lo que asegura que todo el alumnado pueda participar sin problemas.<br />Edad y competencia digital del alumnado: La herramienta es adecuada para estudiantes de primaria y secundaria, ya que es sencilla de usar, pero permite explorar funciones más avanzadas para quienes tengan más destreza digital.<br />Motivación y aprendizaje significativo: La interactividad y el componente lúdico de Genially conectan con el tema, aumentando la motivación y el interés por la escritura y la creatividad.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775836034655-4m2sloqlx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Herramientas para la oganización y gestión de la información</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Herramientas para la oganización y gestión de la información</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775836034655-4m2sloqlx</odePageId>
+      <odeBlockId>block-1775836880463-l0022s6uf</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775836034655-4m2sloqlx</odePageId>
+          <odeBlockId>block-1775836880463-l0022s6uf</odeBlockId>
+          <odeIdeviceId>idevice-1775836880461-oq47sb0r6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta apartado vamos a distinguir dos bloques destinados a las herramientas para el alumnado y herramientas para el profesorado. Pasamos a centrarnos en ellos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775836880461-oq47sb0r6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta apartado vamos a distinguir dos bloques destinados a las herramientas para el alumnado y herramientas para el profesorado. Pasamos a centrarnos en ellos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775836044638-foihp6b9d</odePageId>
+  <odeParentPageId>page-1775836034655-4m2sloqlx</odeParentPageId>
+  <pageName>4.1 Herramientas para el alumnado</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.1 Herramientas para el alumnado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775836044638-foihp6b9d</odePageId>
+      <odeBlockId>block-1775836898255-u1hw7tk7g</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775836044638-foihp6b9d</odePageId>
+          <odeBlockId>block-1775836898255-u1hw7tk7g</odeBlockId>
+          <odeIdeviceId>idevice-1775836898253-o5greyntc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este padlet recogemos herramientas necesarias para que el alumnado pueda llevar a la práctica la SdA "Estadijuegos"</p>
+<p></p>
+<p><a href="https://padlet.com/mluisa9112/aprendemos-lengua-2-ep-7g8rz5ky6kuwnc8a" title="">https://padlet.com/mluisa9112/aprendemos-lengua-2-ep-7g8rz5ky6kuwnc8a</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775836898253-o5greyntc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este padlet recogemos herramientas necesarias para que el alumnado pueda llevar a la práctica la SdA \"Estadijuegos\"</p>\n<p></p>\n<p><a href=\"https://padlet.com/mluisa9112/aprendemos-lengua-2-ep-7g8rz5ky6kuwnc8a\" title=\"\">https://padlet.com/mluisa9112/aprendemos-lengua-2-ep-7g8rz5ky6kuwnc8a</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775836055714-bsbdkv5zs</odePageId>
+  <odeParentPageId>page-1775836034655-4m2sloqlx</odeParentPageId>
+  <pageName>4.2 Herramientas para el profesorado</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.2 Herramientas para el profesorado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775836055714-bsbdkv5zs</odePageId>
+      <odeBlockId>block-1775836964051-rdo1dyfye</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775836055714-bsbdkv5zs</odePageId>
+          <odeBlockId>block-1775836964051-rdo1dyfye</odeBlockId>
+          <odeIdeviceId>idevice-1775836964049-dhao47b4k</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este wakelet se recogen diferentes herramientas necesarias y útiles para el profesorado en el día a día del aula.</p>
+<p></p>
+<p><a href="https://wakelet.com/wake/hkcIsmpWX914UoXJok2HB" title="">https://wakelet.com/wake/hkcIsmpWX914UoXJok2HB</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775836964049-dhao47b4k","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este wakelet se recogen diferentes herramientas necesarias y útiles para el profesorado en el día a día del aula.</p>\n<p></p>\n<p><a href=\"https://wakelet.com/wake/hkcIsmpWX914UoXJok2HB\" title=\"\">https://wakelet.com/wake/hkcIsmpWX914UoXJok2HB</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775836082285-9tb1018m1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Guía didáctica</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775836082285-9tb1018m1</odePageId>
+      <odeBlockId>block-1775837032985-se4r8ouim</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775836082285-9tb1018m1</odePageId>
+          <odeBlockId>block-1775837032985-se4r8ouim</odeBlockId>
+          <odeIdeviceId>idevice-1775837032984-ti0kgeljc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="{{context_path}}/content/resources/Tarea 6.1.pdf" title="Tarea 6.1.pdf">Descargar documento</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775837032984-ti0kgeljc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"{{context_path}}/content/resources/Tarea 6.1.pdf\" title=\"Tarea 6.1.pdf\">Descargar documento</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775836101488-u559p22bl</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Línea temporal del proyecto</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Línea temporal del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775836101488-u559p22bl</odePageId>
+      <odeBlockId>block-1775837088072-di4pfsvs6</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775836101488-u559p22bl</odePageId>
+          <odeBlockId>block-1775837088072-di4pfsvs6</odeBlockId>
+          <odeIdeviceId>idevice-1775837088070-ib64vzzng</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Presentamos la línea temporal de las distintas tareas que conforman la SdA "Estadijuegos".</p>
+<p><a href="{{context_path}}/content/resources/Tarea 7.1.pdf" title="Tarea 7.1.pdf">Descargar documento</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775837088070-ib64vzzng","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Presentamos la línea temporal de las distintas tareas que conforman la SdA \"Estadijuegos\".</p>\n<p><a href=\"{{context_path}}/content/resources/Tarea 7.1.pdf\" title=\"Tarea 7.1.pdf\">Descargar documento</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775836116994-byg0pguk0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775836116994-byg0pguk0</odePageId>
+      <odeBlockId>block-1775837142125-lk6tag397</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775836116994-byg0pguk0</odePageId>
+          <odeBlockId>block-1775837142125-lk6tag397</odeBlockId>
+          <odeIdeviceId>idevice-1775837142123-8bpr6jbdh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este enlace se recogen diferentes instrumentos que se van a utilizar para evaluar las tareas que conforman esta SdA.</p>
+<p><a href="{{context_path}}/content/resources/Tarea 8.1.pdf" title="Tarea 8.1.pdf">Descargar documento</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775837142123-8bpr6jbdh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este enlace se recogen diferentes instrumentos que se van a utilizar para evaluar las tareas que conforman esta SdA.</p>\n<p><a href=\"{{context_path}}/content/resources/Tarea 8.1.pdf\" title=\"Tarea 8.1.pdf\">Descargar documento</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775836139585-9czzfum0w</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8. Créditos</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775836139585-9czzfum0w</odePageId>
+      <odeBlockId>block-1775837379693-9ftmixxxf</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775836139585-9czzfum0w</odePageId>
+          <odeBlockId>block-1775837379693-9ftmixxxf</odeBlockId>
+          <odeIdeviceId>idevice-1775837379691-ujmd8a20y</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SdA Estadijuegos</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Este Exelearning es el producto final realizado por María Luisa Cabeza de Vaca Rodríguez, como actividad final del curso de Competencia Digital Docente Nivel B2 ofertado por la Junta de Andalucía. En él aparecen las diferentes tareas llevadas a cabo a lo largo de los ocho módulos que componen el curso.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">María Luisa Cabeza de Vaca Rodríguez</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
